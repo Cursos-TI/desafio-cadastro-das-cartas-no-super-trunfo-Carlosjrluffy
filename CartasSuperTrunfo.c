@@ -28,10 +28,7 @@ int main() {
     
     printf("Nome da cidade: \n");
     scanf("%s", &cidade);
-    
-    printf("código da cidade: \n");
-    scanf("%c", &codigo);
-
+      
     printf("População: \n");
     scanf("%f", &populacao);
     
@@ -45,7 +42,6 @@ int main() {
     scanf("%d", &pturiscico);
 
     printf("Cidade: %s \n", cidade);
-    printf("Código: %c \n");
     printf("População: %f \n", populacao);
     printf("Área: %f \n", area);
     printf("PIB: %f \n", pib);
