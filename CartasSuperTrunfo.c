@@ -52,9 +52,9 @@
     printf("Numero de Pontos Turísticos: \n");
     scanf("%d", &pturistico);
 
-    printf("Cidade: %c \n", estado);
-    printf("Cidade: %s \n", cidade);
+    printf("Estado: %c \n", estado);
     printf("Código da Carta: %s \n", codigo);
+    printf("Cidade: %s \n", cidade);
     printf("População: %.2f \n", populacao);
     printf("Área: %.2f \n", area);
     printf("PIB: %.2f \n", pib);
